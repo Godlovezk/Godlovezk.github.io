@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "普罗旺斯的春夏秋冬"
+description: "一生想做浪漫极客"
 ---
 
 {% for post in paginator.posts %}
